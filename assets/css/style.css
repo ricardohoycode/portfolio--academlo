@@ -461,7 +461,8 @@ section {
 }
 
 .footer .links .btn {
-  margin: .5rem;
+  margin: .3rem;
+  font-size: 15px;
 }
 
 .footer .credit {
@@ -570,7 +571,7 @@ section {
   }
   .header .navbar a {
     display: inline-block;
-    margin: 1rem;
+    margin: .5rem;
   }
 
   .header .navbar a:hover{
@@ -623,5 +624,8 @@ section {
   }
   .heading span{
     font-size: 2.5rem;
+}
+.footer .links a{
+  display: inline-flexbox;
 }
 }
